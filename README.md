@@ -7,6 +7,8 @@ The idea is use cobalt strike ps beacon for gaining shell access then hunt infec
 
 **https://infosecarsenal.blogspot.com/2020/04/hunting-cobalt-strike-beacons-with.html**
 
+![image](https://user-images.githubusercontent.com/3885129/82147803-fac54e00-9858-11ea-805b-19eccb4c1898.png)
+
 
 ***Tasks:***
 
