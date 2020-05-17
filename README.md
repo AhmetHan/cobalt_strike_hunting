@@ -10,6 +10,7 @@ The idea is use cobalt strike ps beacon for gaining shell access then hunt infec
 ![image](https://user-images.githubusercontent.com/3885129/82147803-fac54e00-9858-11ea-805b-19eccb4c1898.png)
 
 
+
 ***Tasks:***
 
 **Install Fresh Kali Linux Distro**
@@ -33,6 +34,8 @@ The idea is use cobalt strike ps beacon for gaining shell access then hunt infec
 **Install Cobalt Strike Plugins from JapanCert**
 
 **Run Volatility Commands and observe outputs**
+
+![image](https://user-images.githubusercontent.com/3885129/82147847-57286d80-9859-11ea-89c5-c5794cb61f66.png)
 
 
 ***References:***
