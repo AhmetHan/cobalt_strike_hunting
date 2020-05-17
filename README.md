@@ -9,3 +9,4 @@ you can gain more experience compromise analysis if you suspect any infected mac
 https://infosecarsenal.blogspot.com/2020/04/hunting-cobalt-strike-beacons-with.html
 
 ![image](https://user-images.githubusercontent.com/3885129/82140811-24bb4800-983a-11ea-9cd8-9fc3268dbe7a.png)
+Cobalt Strike
