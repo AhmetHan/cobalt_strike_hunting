@@ -8,4 +8,4 @@ you can gain more experience compromise analysis if you suspect any infected mac
 
 https://infosecarsenal.blogspot.com/2020/04/hunting-cobalt-strike-beacons-with.html
 
-Screenshot_1.png
+
