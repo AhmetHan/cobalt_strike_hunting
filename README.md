@@ -8,9 +8,32 @@ The idea is use cobalt strike ps beacon for gaining shell access then hunt infec
 https://infosecarsenal.blogspot.com/2020/04/hunting-cobalt-strike-beacons-with.html
 
 
+Tasks:
+
+Install Fresh Kali Linux Distro
+
+Install Windows2012R2 server or win8 client
+
+Install Cobalt Strike Team Server
+
+Run Cobalt Strike Team Server
+
+Generate Cobalt Strike PS Beacon
+
+Run Cobalt Strike beacon on Windows Machine
+
+Control shell access with pid on cobalt strike team server 
+
+Run one click dumptit on windows machine for memory forensics
+
+Upload raw memory image file to Kali Server
+
+Install Cobalt Strike Plugins from JapanCert
+
+Run Volatility Commands and observe outputs
+
 
 References:
-
 
 https://www.mertsarica.com/onum-arkam-sagim-solum-cobalt-strike/
 
