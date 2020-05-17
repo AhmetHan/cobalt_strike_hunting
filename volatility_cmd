@@ -1,1 +1,20 @@
-abc
+This file contains which I used when I doing that cobalt strike beacon infected machine memory dump analysis commands. Please visit for 
+more detailed information myblog post(TR).
+
+https://infosecarsenal.blogspot.com/2020/04/hunting-cobalt-strike-beacons-with.html
+
+* volatility imageinfo -f /home/kali/Desktop/WIN-OJJPK4IIGHV-20200419-230930.raw
+* volatility -h
+* volatility cobaltstrikeconfig -f /home/kali/Desktop/WIN-OJJPK4IIGHV-20200419-230930.raw --profile=Win2012R2x64 
+* volatility cobaltstrikescan -f /home/kali/Desktop/WIN-OJJPK4IIGHV-20200419-230930.raw --profile=Win2012R2x64
+* volatility cmdline -f /home/kali/Desktop/WIN-OJJPK4IIGHV-20200419-230930.raw --profile=Win2012R2x64
+* volatility privs -f /home/kali/Desktop/WIN-OJJPK4IIGHV-20200419-230930.raw --profile=Win2012R2x64 | more
+* volatility pslist -f /home/kali/Desktop/WIN-OJJPK4IIGHV-20200419-230930.raw --profile=Win2012R2x64 | more
+* volatility malfind -f WIN-OJJPK4IIGHV-20200419-230930.raw --profile=Win2012R2x64 | more
+* volatility malfind -f WIN-OJJPK4IIGHV-20200419-230930.raw -p 1992 --profile=Win2012R2x64 --dump-dir evidence/
+* volatility dlllist -f WIN-OJJPK4IIGHV-20200419-230930.raw --profile=Win2012R2x64
+* strings .*dmp files
+* hexdump 
+
+
+
