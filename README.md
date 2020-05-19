@@ -3,7 +3,7 @@
 
 **#This work learning purpose only!** 
 
-The idea is use cobalt strike ps beacon for gaining shell access then hunt infected machine using memory forensics. When you are doing that you can gain more experience compromise analysis if you suspect any infected machine. 
+The idea is use cobalt strike ps beacon for gaining shell access then hunt infected machine using memory forensics. When you are doing that you can gain more experience compromise analysis if you suspect any infected machine. By the way, when you writing SIEM detection rules, you need to think advisory based threat modeling and assume breach approach. When you are writing siem rules you're thinking that your infrastructure already breached and hacked. Then you are thinking that worst case screnio already happened. This approach provides more from attackers point of view. 
 
 **https://infosecarsenal.blogspot.com/2020/04/hunting-cobalt-strike-beacons-with.html**
 
